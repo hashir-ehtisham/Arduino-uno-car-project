@@ -35,6 +35,16 @@ During development, several engineering challenges were addressed:
 The Arduino code utilizes:
 * **Serial Communication:** To interpret characters sent from the smartphone app (e.g., 'F' for Forward).
 * **PWM (Pulse Width Modulation):** To maintain consistent and smooth motor speeds.
+## 👥 Contributors (DE-47-CE-B)
+* **Muhammad Hashir Ehtisham** (543606)
+* **Taimoor Atif** (548296)
+* **Lameea Mubashir Khan** (570918)
+* **Tooba Fatima** (577687)
+
+## 🎓 Acknowledgments
+This project was completed as part of the **Applied Physics** curriculum at the **Department of Computer and Software Engineering, College of E&ME, NUST**. 
+
+Special thanks to our instructor, **Lec. Sabeen Malik**, for her guidance and support throughout the development of this project.
 
 ## 📂 Repository Structure
 ```text
