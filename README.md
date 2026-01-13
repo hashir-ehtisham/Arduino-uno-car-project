@@ -37,7 +37,7 @@ The Arduino code utilizes:
 * **PWM (Pulse Width Modulation):** To maintain consistent and smooth motor speeds.
 ## 👥 Contributors (DE-47-CE-B)
 * **Muhammad Hashir Ehtisham** (543606)
-* **Taimoor Atif** (548296)
+* **Taimoor Atif** (548296) Documentation of said project and Speed recordings.
 * **Lameea Mubashir Khan** (570918)
 * **Tooba Fatima** (577687) Designing Exterior of the Car
 
