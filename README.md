@@ -39,7 +39,7 @@ The Arduino code utilizes:
 * **Muhammad Hashir Ehtisham** (543606)
 * **Taimoor Atif** (548296)
 * **Lameea Mubashir Khan** (570918)
-* **Tooba Fatima** (577687)
+* **Tooba Fatima** (577687) Designing Exterior of the Car
 
 ## 🎓 Acknowledgments
 This project was completed as part of the **Applied Physics** curriculum at the **Department of Computer and Software Engineering, College of E&ME, NUST**. 
