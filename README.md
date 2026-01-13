@@ -36,7 +36,7 @@ The Arduino code utilizes:
 * **Serial Communication:** To interpret characters sent from the smartphone app (e.g., 'F' for Forward).
 * **PWM (Pulse Width Modulation):** To maintain consistent and smooth motor speeds.
 ## 👥 Contributors (DE-47-CE-B)
-* **Muhammad Hashir Ehtisham** (543606)
+* **Muhammad Hashir Ehtisham** (543606) Programming & Wiring of the Project.
 * **Taimoor Atif** (548296) Documentation of said project and Speed recordings.
 * **Lameea Mubashir Khan** (570918)
 * **Tooba Fatima** (577687) Designing Exterior of the Car
