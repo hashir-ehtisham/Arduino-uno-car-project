@@ -38,7 +38,7 @@ The Arduino code utilizes:
 ## 👥 Contributors (DE-47-CE-B)
 * **Muhammad Hashir Ehtisham** (543606) Programming & Wiring of the Project.
 * **Taimoor Atif** (548296) Documentation of said project and Speed recordings.
-* **Lameea Mubashir Khan** (570918)
+* **Lameea Mubashir Khan** (570918) Designing & Physical Layout of the Car
 * **Tooba Fatima** (577687) Designing Exterior of the Car
 
 ## 🎓 Acknowledgments
